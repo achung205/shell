@@ -1,4 +1,4 @@
 shell
 =====
 
-makemake.sh - creates a Makefile
+makemake.sh - make a Makefile
